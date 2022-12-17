@@ -15,6 +15,6 @@
 um estudante de programação, em buscar de mais conhecimento.
 
 ### Caso queira entre em contato: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vic.vl674@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/vic.vl674@gmail.com)
 
 
