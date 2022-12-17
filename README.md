@@ -12,7 +12,7 @@
 <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div><br/>
 
-um estudante de programação, em buscar de mais conhecimento.
+um estudante de programação, em busca de mais conhecimento.
 
 ### Caso queira entre em contato: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://vic.vl674@gmail.com)
