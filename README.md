@@ -1,6 +1,7 @@
 ### Olá eu sou o Victor 🚬
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=vlgkkkjsj&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlgkkkjsj&layout=compact&langs_count=16&theme=dark)](https://github.com/vlgkkkjsj/github-readme-stats)
 
 ## Tecnologias que mais uso no dia a dia
 
